@@ -1,0 +1,8 @@
+MODULOS YA CONFIGURADOS:
+    app-header-principal -- El header principal
+
+
+
+
+OBJETOS IMPLEMENTADOS:
+    MatSliderModule -- barra de volumen configurable
